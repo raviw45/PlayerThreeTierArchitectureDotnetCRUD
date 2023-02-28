@@ -1,0 +1,6 @@
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\bin\Debug\ModelLayer.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\bin\Debug\ModelLayer.pdb
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\obj\Debug\ModelLayer.csproj.AssemblyReference.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\obj\Debug\ModelLayer.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\ModelLayer\obj\Debug\ModelLayer.pdb

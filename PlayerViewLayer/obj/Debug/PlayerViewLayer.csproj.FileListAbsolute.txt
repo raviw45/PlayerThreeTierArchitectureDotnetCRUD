@@ -1,0 +1,13 @@
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\bin\Debug\PlayerViewLayer.exe.config
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\bin\Debug\PlayerViewLayer.exe
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\bin\Debug\PlayerViewLayer.pdb
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\bin\Debug\Guna.UI2.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.csproj.AssemblyReference.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.csproj.SuggestedBindingRedirects.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.PlayerPage.resources
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.Properties.Resources.resources
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.csproj.GenerateResource.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.csproj.CoreCompileInputs.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.csproj.CopyComplete
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.exe
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\PlayerViewLayer\obj\Debug\PlayerViewLayer.pdb

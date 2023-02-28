@@ -1,0 +1,17 @@
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\DaoLayer.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\DaoLayer.pdb
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\MySql.Data.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\Google.Protobuf.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\ZstdNet.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\System.Buffers.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\bin\Debug\MySql.Data.xml
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\obj\Debug\DaoLayer.csproj.AssemblyReference.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\obj\Debug\DaoLayer.csproj.CoreCompileInputs.cache
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\obj\Debug\DaoLayer.csproj.CopyComplete
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\obj\Debug\DaoLayer.dll
+D:\CDAC BANGLORE\DOTNET\PlayerCrudThreeTierApplication\DaoLayer\obj\Debug\DaoLayer.pdb
